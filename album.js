@@ -39,6 +39,13 @@ new Vue({
           title: "HERO",
           isOpen: false,
         },
+        {
+          img1: "images/cat couple.jpg",
+          img2: "images/cat couple2.jpg",
+          img3: "images/cat couple3.jpg",
+          title: "I LOVE YOU",
+          isOpen: false,
+        },
       ],
     };
   },
@@ -59,3 +66,4 @@ new Vue({
     },
   },
 });
+
